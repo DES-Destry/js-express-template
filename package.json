@@ -2,10 +2,10 @@
   "name": "js-express-template",
   "version": "1.0.0",
   "description": "Ready template for future JavaScript + Node.js + Express.js projects",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app",
-    "dev": "nodemon app.js"
+    "start": "node index",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "js",
